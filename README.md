@@ -1,9 +1,11 @@
-## 🤖 Robotics Enthusiast & Creator | Engineering Ideas into Reality 🚀
+## Hi Everyone 😎 | Engineering Ideas into Reality 🚀
 
-<!--
-**raspicap/raspicap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![1706627324257](https://github.com/user-attachments/assets/68887673-ac93-4360-8267-89db5d0aeda3)
 
-Here are some ideas to get you started:
+Hi, I’m Rajinthan! I’m currently pursuing a BSc in Engineering at the University of Moratuwa, where I’m diving deep into robotics, autonomous systems, and all things tech.
+Here, you’ll find my favorite projects—from embedded systems to robotic prototypes and beyond.
+
+Explore, connect, and let’s innovate in the world of robotics together!
 
 - 🔭 I’m currently working on Robotics
 - 🌱 I’m currently pursuing a BSc in Engineering at the University of Moratuwa
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rajinthanrr (📸 Instagram)
 - 😄 Pronouns: (He / Him)
 - ⚡ Fun fact: No one can wake me up while sleeping 😉
--->
