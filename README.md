@@ -1,6 +1,6 @@
 ## Hi Everyone 😎 | Engineering Ideas into Reality 🚀
 
-![1706627324257](https://github.com/user-attachments/assets/68887673-ac93-4360-8267-89db5d0aeda3)
+![1706627324257](https://github.com/user-attachments/assets/1e658174-0de8-48de-a71e-9f535c1dd8a1)
 
 Hi, I’m Rajinthan! I’m currently pursuing a BSc in Engineering at the University of Moratuwa, where I’m diving deep into robotics, autonomous systems, and all things tech.
 Here, you’ll find my favorite projects—from embedded systems to robotic prototypes and beyond.
