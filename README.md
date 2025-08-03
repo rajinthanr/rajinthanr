@@ -13,7 +13,7 @@
 
 Hi, I’m **Rajinthan**, a passionate engineering undergraduate at the **University of Moratuwa**, exploring the intersections of **robotics**, **autonomous systems**, and **embedded technology**.
 
-Here you'll find some of my most exciting work—from real-time embedded systems and line-following robots to intelligent maze solvers and IoT devices.
+Here you'll find some of my most exciting work from real time embedded systems and line-following robots to intelligent maze solvers and IoT devices.
 
 Let’s build cool things together and push the limits of what's possible!
 
@@ -34,7 +34,7 @@ Let’s build cool things together and push the limits of what's possible!
 - 🐍 **Python** — Proficient in automation and rapid prototyping  
 - 📊 **MATLAB** — Intermediate level in DSP and simulations  
 - 📡 **Microcontrollers** — STM32, ESP32, Arduino  
-- 🛠️ **Tools** — VS Code, CMake, Git, KiCAD, Simulink
+- 🛠️ **Tools** — VS Code, Linux, CMake, Git, Altium, Simulink
 
 ---
 
