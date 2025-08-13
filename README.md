@@ -11,34 +11,40 @@
   <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue" height="20" alt="Pronouns: He/Him"/>
 </p>
 
-Hi, I’m Rajinthan - an engineering undergraduate at the University of Moratuwa with over **7 years of hands-on experience** in **PCB design**, **register-level programming**, **low-level debugging**, and **embedded system design**.
+Hi, I’m **Rajinthan Rameshkumar** - an undergraduate in **Electronic & Telecommunication Engineering** at the University of Moratuwa with a strong interest in **IC Design (Analog, RF, Mixed-Signal)**, **embedded systems**, and **control engineering**.  
 
-I specialize in building high-performance robots, real-time embedded systems, and intelligent devices.
+I specialize in designing **high-performance robots**, **low-power analog and RF circuits**, and **intelligent embedded systems**. 
 
-I’m also passionate about **mentoring juniors**, sharing knowledge, and collaborating with fellow builders and tech enthusiasts.
+I bring over **7 years of hands-on experience** in:  
+- **PCB design** and prototyping  
+- **Register-level embedded programming** and low-level debugging  
+- **Firmware development** and real-time system design  
+- **Robotics and electronic control systems**
 
-Let’s connect and create things that push the boundaries of what’s possible!
+I am passionate about **mentoring juniors**, collaborating with researchers, and contributing to **open-source hardware and IC design projects**.  
 
 ---
 
----
+### 🎯 Current Focus Areas
+- 💡 Exploring **low-power Analog & RF IC design** and **mixed-signal integration**
+- 🧠 Developing **autonomous robots** with low-level hardware integration and sensor fusion  
+- ⚙️ Designing **precision motor control systems** for robotics and EV applications with encoder feedback  
+- 📶 Implementing **digital signal processing (DSP) algorithms** on FPGAs for real-time edge computing  
+- 🛠️ Building **scalable embedded architectures**, from sensors to firmware to user interfaces  
+
+
+### 🤝 Collaboration Goals
+- Seeking collaboration in **IC design, robotics, embedded AI, and FPGA-based computing**  
+- Open to mentoring and joint academic research projects
+
+### ✨ Fun Fact
+I can sleep through an earthquake 😴  
 
 ---
 
-### 🚀 What I'm Up To
-
-🎯 **Current Focus Areas:**
-- 🧠 Designing autonomous robots with low-level hardware integration and sensor fusion
-- ⚙️ Developing precision **motor control systems for EVs**, including encoder feedback and smooth acceleration  
-- 📶 Exploring **digital signal processing (DSP)** on FPGAs for high-performance edge applications  
-- 🛠️ Building scalable embedded **system architectures** — from sensors to firmware to UI  
-
-🤝 **Collaboration Goals:**
-- Seeking passionate minds in **robotics**, **embedded AI**, and **FPGA-based computing**  
-- Happy to mentor or team up on open-source hardware projects  
-
-😴 **Fun Fact:**  
-I can sleep through an earthquake 😴
+### 🔗 Connect with Me
+- **LinkedIn:** [https://www.linkedin.com/in/rajinthan](https://www.linkedin.com/in/rajinthan)  
+- **References / Mentors:** Available upon request  
 
 
 
@@ -80,7 +86,11 @@ I can sleep through an earthquake 😴
 <p align="left">
   <img src="https://img.shields.io/badge/LTspice-DC322F?style=for-the-badge&logoColor=white" alt="LTspice"/>
   <img src="https://img.shields.io/badge/Ngspice-222222?style=for-the-badge&logoColor=white" alt="Ngspice"/>
+  <img src="https://img.shields.io/badge/Xschem-FF6600?style=for-the-badge&logoColor=white" alt="Xschem"/>
+  <img src="https://img.shields.io/badge/Magic-007ACC?style=for-the-badge&logoColor=white" alt="Magic"/>
+  <img src="https://img.shields.io/badge/KLayout-0055FF?style=for-the-badge&logoColor=white" alt="KLayout"/>
 </p>
+
 
 ### 📊 Simulation, Math & HDL
 <p align="left">
