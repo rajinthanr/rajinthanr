@@ -117,3 +117,14 @@ I can sleep through an earthquake 😴
 ---
 
 🔗 Let’s connect and innovate!
+
+## 🔹 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajinthanr&layout=compact&theme=blueberry&hide_border=false" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajinthanr&theme=blueberry&no-frame=false&row=1&column=6" height="150" />
+</p>
+
