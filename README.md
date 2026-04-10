@@ -24,7 +24,7 @@
 
 I'm an undergraduate in **Electronic & Telecommunication Engineering** at the University of Moratuwa (GPA 3.77/4.0, Dean's List) with a deep focus on **analog IC design**, **integrated photonics**, and **embedded systems**.
 
-Currently a **Research Intern at StarLabs, NUS** — developing a 100 mNms smart reaction wheel controller for satellite ADCS using advanced FOC algorithms on BLDC motors. Robotics team member at **RoboticGen**, leading the open-source STM32F405 micromouse to 3 m/s.
+Currently a **Research Intern at StarLabs, NUS** — developing a smart reaction wheel controller for satellite ADCS using advanced FOC algorithms on BLDC motors. Robotics team member at **RoboticGen**, leading the open-source STM32F405 micromouse to 3 m/s.
 
 My IC work runs on open-source PDK flows: **SKY130A** (Tiny Tapeout op-amp: 80 dB, 4 MHz, 2 nA disable) and **IHP SG13G2** (2.4 GHz Fractional-N PLL + LC-VCO for IEEE CASS UNIC-CASS). Final year project: **NS-SAR ADC** in Cadence on SKY130.
 
